@@ -3,14 +3,17 @@ This Credit Card Analysis Dashboard, created using Power BI, provides a comprehe
 It leverages transaction data to uncover valuable insights for strategic decision-making. 
 
 Key Features:
+
 Transaction Analysis:
     - Visualizations of transaction volumes over time, allowing identification of trends and seasonality in spending patterns. 
     - Analysis of transactions by category (groceries, travel, entertainment, etc.) to understand spending habits and identify areas for potential rewards program optimization.
     - Insights into transaction to understand customer spending patterns and tailor marketing efforts accordingly.
+    
 Customer Segmentation:
     - Demographic breakdowns of cardholders (age, gender, education) to identify key customer segments.
     - Analysis of spending behavior by customer segment to personalize marketing campaigns and product offerings.
     - Exploration of cardholder engagement metrics (frequency of use, average transaction value) to understand customer loyalty and identify opportunities for growth.
+    
 Actionable Insights:
     - Highlights potential areas for increased revenue generation through targeted marketing campaigns.
     - Identifies opportunities to improve customer satisfaction and loyalty by tailoring rewards programs and benefits.
